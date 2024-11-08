@@ -11,8 +11,6 @@ MagicCypher is a Java-based encryption tool that utilizes the properties of magi
 
 ## How It Works
 
-## How It Works
-
 1. **Sanitize the Message**  
    - Remove any leading or trailing white spaces.
    - Insert random characters between spaces of words.
